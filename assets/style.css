@@ -1,0 +1,106 @@
+body,
+* {
+  margin: 0;
+  padding: 0;
+  flex: 1;
+}
+
+body {
+  background: #000000;
+  font-family: Raleway;
+  margin: 0;
+  color: #ffffff;
+}
+
+h2{
+  text-align: center;
+  padding-top: 75px;
+  font-size: 40px;
+  font-weight: normal;
+}
+h4 {
+  margin-top: 20px;
+}
+
+.banner {
+  background: #000000;
+  text-align: center;
+}
+
+.inicio {
+  font-weight: 500;
+  padding: 2%;
+}
+
+.desc-section {
+  text-align: left;
+  vertical-align: middle;
+  width: 90%;
+  margin: 0 auto;
+  padding: 5%;
+  font-weight: 300;
+}
+
+.texto {
+  width: 48%;
+  display: inline-block;
+  /* text-align: left; */
+  margin-left: 3%;
+  vertical-align: middle;
+  text-align: justify;
+}
+
+.imagen1{
+  width: 100%;
+  height: auto;
+}
+
+.imagen2 {
+  width: 34%;
+  display: inline-block;
+  vertical-align: middle;
+  padding: 5%;
+}
+
+
+
+.caracteristicas {
+  background: #1e1a13;
+  width: 100%;
+  padding: 1% 0;
+}
+
+.imagenes {
+  align-items: space-between;
+  display: flex;
+  padding: 5%;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+.iguana {
+  width: 316px;
+  height: 202px;
+  justify-content: space-around;
+}
+
+
+.icon {
+  display: inline-block;
+  width: 20%;
+  margin-left: 9%;
+  text-align: center;
+  margin-top: 2%;
+  margin-bottom: 5%;
+  font-weight: 300;
+  padding: 0.5%;
+}
+
+footer {
+  background: #1e1a13;
+  font-weight: 20px lighter;
+  padding: 2%;
+  text-align: center;
+
+}
